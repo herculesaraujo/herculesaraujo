@@ -12,20 +12,20 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
             src="https://devicon-website.vercel.app/api/linkedin/original.svg"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+<!--     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
-    <a href="https://github.com/herculesaraujo?tab=repositories&sort=stargazers">
+    </a>  -->
+<!--     <a href="https://github.com/herculesaraujo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/herculesaraujo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/herculesaraujo?tab=followers">
         <img 
             alt="Seguidores" 
@@ -87,6 +87,17 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" 
+/>
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 <img 
     align="left" 
     alt="Git" 
