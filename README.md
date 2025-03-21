@@ -4,9 +4,9 @@
 
 Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. Concluí o ensino médio e em 2022 dei incio na minha carreira dev onde participei e conclui a "Formação em Desenvolvimento Web FullStack na Trybe". Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas robustas e escaláveis. Desde 2022, venho construindo aplicações web de alto desempenho com foco em JavaScript, React.JS, Node.JS e TypeScript, garantindo integrações eficientes e experiências de usuário excepcionais.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enioschaefer.dev@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enioschaefer/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/schaefer.enio_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrclsrj@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hercules-araujo97/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hercules.a97/)
 
 <p align="left">
 
