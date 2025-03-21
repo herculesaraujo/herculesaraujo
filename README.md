@@ -5,9 +5,7 @@
 Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. Concluí o ensino médio e em 2022 dei incio na minha carreira dev onde participei e conclui a "Formação em Desenvolvimento Web FullStack na Trybe". Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas robustas e escaláveis. Desde 2022, venho construindo aplicações web de alto desempenho com foco em JavaScript, React.JS, Node.JS e TypeScript, garantindo integrações eficientes e experiências de usuário excepcionais.
 
 
-<p align="left">  
-  <h1> Meus Contatos </h1>
-</p>
+## Linguagens e Tecnologias
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrclsrj@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hercules-araujo97/)
