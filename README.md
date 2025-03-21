@@ -93,7 +93,7 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
     title="NodeJS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
