@@ -5,13 +5,13 @@
 Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. Concluí o ensino médio e em 2022 dei incio na minha carreira dev onde participei e conclui a "Formação em Desenvolvimento Web FullStack na Trybe". Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas robustas e escaláveis. Desde 2022, venho construindo aplicações web de alto desempenho com foco em JavaScript, React.JS, Node.JS e TypeScript, garantindo integrações eficientes e experiências de usuário excepcionais.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+<!--     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://devicon-website.vercel.app/api/linkedin/original.svg"
         />
-    </a>
+    </a> -->
 <!--     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
@@ -95,9 +95,7 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" 
 />
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
 <img 
     align="left" 
     alt="Git" 
