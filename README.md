@@ -8,7 +8,7 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
 ## Meus Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrclsrj@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hercules-araujo97/)
-/
+
 
 ---
 
@@ -106,5 +106,4 @@ Me chamo Hércules Araujo, tenho 27 anos e sou natural de Quebrangulo/Alagoas. C
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesaraujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
